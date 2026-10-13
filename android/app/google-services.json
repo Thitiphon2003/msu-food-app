@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "926132297615",
+    "project_id": "msu-food-d09f0",
+    "storage_bucket": "msu-food-d09f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926132297615:android:bc8502a3b82d20941ab5fa",
+        "android_client_info": {
+          "package_name": "com.example.msu_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926132297615-nd1s2l96g5lsq3pgc1e3v62hu41762fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.msu_food",
+            "certificate_hash": "baea0bb3d3bcaf421ca75f744ed28fc7bb14acd5"
+          }
+        },
+        {
+          "client_id": "926132297615-0s5fkea1eeiprb0k2m6cp318p1ftgl22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0fA-iqXukJ5uhA8cp-o_4XAitcmV_ktI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926132297615-0s5fkea1eeiprb0k2m6cp318p1ftgl22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
