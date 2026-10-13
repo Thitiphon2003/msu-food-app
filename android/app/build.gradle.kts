@@ -8,7 +8,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.msu_food"
+    namespace = ""th.ac.msu.s66010914022.msu_food""
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
